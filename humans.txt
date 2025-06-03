@@ -1,0 +1,11 @@
+/* TEAM */
+Creator: Haadi Badar
+From: Lahore, Pakistan
+Twitter: @haadi_badar
+Site: haadibadar.com
+
+/* THANKS */
+Inspired by curiosity, ideas, people, pets.
+
+/* TECHNOLOGY */
+Built with: HTML, GitHub Pages, Cloudflare
